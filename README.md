@@ -5,7 +5,7 @@
     :wave: Hey! Welcome to my profile
     <br>I am a full time programmer, part-time tour guide, and non famous crosstalk actor.
     <br>
-    <img src="https://github.com/guobinhit/guobinhit/blob/master/loading/Kamado-Nezuko.gif" width="150px" height="150px" align="center">
+    <img src="https://cdn.tulaoda.top/loading/xiaohuangren.gif" width="150px" height="150px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guobinhit&&show_icons=true&&theme=tokyonight" />
   </samp>
