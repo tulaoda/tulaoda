@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hey! Welcome to my profile
-    <br>I am a full time programmer, part-time tour guide, and non famous crosstalk actor.
+    <br>I am a front-end engineer, good at react, currently working in Alibaba. I like cycling and photography.
     <br>
     <img src="https://cdn.tulaoda.top/loading/xiaohuangren.gif" width="150px" height="150px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
