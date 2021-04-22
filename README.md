@@ -7,7 +7,7 @@
     <br>
     <br>
     <img src="https://cdn.tulaoda.top/loading/xiaohuangren.gif" width="150px" height="150px" align="center">
-    <br><br>:pizza: Take a look at my stats :P<br><br>
+    <br><br>:pizza: Take a look at my stats 🍊<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tulaoda&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
