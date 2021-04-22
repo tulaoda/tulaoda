@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hey! Welcome to my profile
-    <br>I am a front-end engineer, good at react, currently working in Alibaba. I like cycling and photography.
+    <br>I am a front-end engineer, good at react. I like cycling and photography.
     <br>
     <br>
     <img src="https://cdn.tulaoda.top/loading/xiaohuangren.gif" width="150px" height="150px" align="center">
