@@ -5,7 +5,7 @@
     :wave: Hey! Welcome to my profile
     <br>I am a front-end engineer, good at react. I like cycling and photography.
     <br>
-    Personal component library：design.tulaoda.top
+    Personal component library:design.tulaoda.top
     <br>
     <br>
     <img src="https://cdn.tulaoda.top/loading/xiaohuangren.gif" width="150px" height="150px" align="center">
